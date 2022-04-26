@@ -1,0 +1,21 @@
+Git Practise - 1
+
+Create a new repo (public) in your github organization named as Training
+
+Clone that repo in your PC/Laptop C:/Revature/Myrepo
+
+Navigate to the newly created Training folder
+
+Create a new file Named mynotes.md -> touch mynotes.md
+
+Open this newly created mynotes.md with a notepad -> notepad mynotes.md
+
+Add some notes here and save this file
+
+Check for tracking changes between remote and local workspace -> git status
+
+Stage the file -> git add mynotes.md
+
+Commit this file changes -> git commit -m "Adding my notes"
+
+git push
